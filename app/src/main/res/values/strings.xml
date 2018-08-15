@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Simple Recycler View</string>
+    <string-array name="restaurant_name">
+        <item>Claypot Asam Pedas</item>
+        <item>Kuih Keria</item>
+        <item>Mee Bodoh</item>
+        <item>Coconut Shake Klebang</item>
+        <item>Pak Putra</item>
+    </string-array>
 </resources>
